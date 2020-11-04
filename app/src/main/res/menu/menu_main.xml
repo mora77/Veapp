@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.android.veapp.MainActivity">
+
+    <!-- XML usado para agregar las opciones de la toolbar
+         cada opcion es un item-->
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="@string/about"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/verPDF"
+        android:title="Ayuda"
+        />
+    <item
+        android:id="@+id/verPrivacidad"
+        android:title="Aviso de Privacidad"
+        />
+    <item
+        android:id="@+id/verTerminos"
+        android:title="Términos y Condiciones"
+        />
+</menu>

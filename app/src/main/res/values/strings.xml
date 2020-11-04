@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VEAPP</string>
+    <string name="action_settings">Configuración</string>
+    <string name="about">Información</string>
+    <string name="login_success">Ingreso exitoso</string>
+    <string name="login">Ingresar</string>
+    <string name="Username">Email</string>
+    <string name="Password">Contraseña</string>
+    <string name="forgot_your_password">Olvidaste tu contraseña ?</string>
+    <string name="go">Continuar</string>
+    <string name="repeat_password">Repite tu contraseña</string>
+    <string name="next">Siguiente</string>
+    <string name="register">Registrarse</string>
+
+    <string name="hint_username">Ingresa tu nombre de usuario</string>
+    <string name="hint_email_reset">Ingresa tu correo</string>
+    <string name="enter_group_name">Ingresa el nombre del grupo</string>
+</resources>

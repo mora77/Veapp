@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- XML que sirve para la toolbar de los chats's -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Cada item es un elemnto en la toolbar -->
+    <item
+        android:id="@+id/camara"
+        android:icon="@drawable/camarax"
+        android:title="VerCamara"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/finAlerta"
+        android:icon="@drawable/bien"
+        android:title="FinAlerta"
+        app:showAsAction="ifRoom"/>
+
+
+
+
+</menu>

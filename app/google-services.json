@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32970410446",
+    "firebase_url": "https://pruebaings.firebaseio.com",
+    "project_id": "pruebaings",
+    "storage_bucket": "pruebaings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32970410446:android:0feee663b4827e4faf439f",
+        "android_client_info": {
+          "package_name": "com.android.veapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32970410446-jsjmu875cfrb4ma265602rp3smk2cjj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAC_0uGOrNJi_UarkrbrK7YHHY3OzCNxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32970410446-jsjmu875cfrb4ma265602rp3smk2cjj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
